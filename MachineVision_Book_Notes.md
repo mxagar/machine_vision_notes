@@ -1,8 +1,33 @@
 # Machine Vision Algorithms and Applications
 
-Notes (and summary) on/of the book 'Machine Vision Algorithms and Applications', by Carsten Steger, Markus Ulrich and Christian Wiedemann.
+My personal notes (and summary) of the book 'Machine Vision Algorithms and Applications', by Carsten Steger, Markus Ulrich and Christian Wiedemann. I have also added some notes from the lecture slides by Prof. Steger:
+
+- [Bildverstehen I](https://iuks.in.tum.de/teaching/ss2019/bv1)
+- [Bildverstehen II](https://iuks.in.tum.de/teaching/ws2019/bv2)
+
+**Table of Contents**:
+
+- [Chapter 1: Introduction](#Chapter-1:-Introduction)
+	- [1.1 Common tasks solved in machine vision](#1.1-Common-tasks-solved-in-machine-vision)
+	- [1.2 Components of a typical machine vision system](#1.2-Components-of-a-typical-machine-vision-system)
+- [Chapter 2: Image Acquisition](#Chapter-2:-Image-Acquisition)
+	- [2.1 Illumination](#2.1-Illumination)
+		- 2.1.1 Electromagnetic Radiation
+		- 2.1.2 Types of light sources
+		- 2.1.3 Interaction of Light and Matter
+		- 2.1.4 Using the Spectral Composition of the Illumination
+		- 2.1.5 Using the Directional Properties of the Illumination
+	- [2.2 Lenses](#2.2-Lenses)
+	- [2.3 Cameras](#2.3-Cameras)
+	- [2.4 Camera-Computer Interfaces](#2.4-Camera-Computer-Interfaces)
+	- [2.5 3D Image Acquisition Devices](#2.5-3D-Image-Acquisition-Devices)
 
 # Chapter 1: Introduction
+
+Contents:
+
+- [1.1 Common tasks solved in machine vision](#1.1-Common-tasks-solved-in-machine-vision)
+- [1.2 Components of a typical machine vision system](#1.2-Components-of-a-typical-machine-vision-system)
 
 ## 1.1 Common tasks solved in machine vision
 
